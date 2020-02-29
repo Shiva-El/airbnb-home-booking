@@ -1,4 +1,4 @@
-"""
+""" test
 all parameters and configurations
 """
 DATA_PATH = "C:\\Users\\cristiann\\desktop\\assigments\\hotel_booking-master\\"
